@@ -1,0 +1,16 @@
+{
+  "name": "molecule-editor",
+  "version": "1.0.0",
+  "description": "An interactive tool for designing and naming organic molecules.",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "dependencies": {
+    "konva": "^8.3.5"
+  },
+  "devDependencies": {},
+  "keywords": ["molecule", "editor", "organic", "chemistry"],
+  "author": "cvcvka5",
+  "license": "MIT"
+}
