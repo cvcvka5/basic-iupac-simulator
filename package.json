@@ -4,7 +4,10 @@
   "description": "An interactive tool for designing and naming organic molecules.",
   "main": "index.html",
   "scripts": {
-    "start": "http-server ."
+    "start": "http-server .",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "konva": "^8.3.5"
